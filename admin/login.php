@@ -1,4 +1,4 @@
-<?php
+<!-- <?php
 include "includes/database.php";
 include "includes/users.php";
 $database = new database();
@@ -134,4 +134,4 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 </body>
 
 </html>
-<!-- end document-->
+<!-- end document--> -->
